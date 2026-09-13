@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.backup-*.xlsx
+*.tmp
+dgt_test_run_evaluator_settings.json
+.venv/
+venv/
